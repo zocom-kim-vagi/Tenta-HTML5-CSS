@@ -17,6 +17,8 @@ Regler som gäller är:
 
 - Inga datorer är tillåtna, provet kommer att vara i pappersformat. 
   Beklagar att jag hintade om datorer, men fick direktiv från mina kolleger, det blir mer en övning i att Googla om man får använda         datorn.
+  
+- Mobiltelefoner eller andra "dator enheter" ska ligga undanstoppade  
 
 - Det mesta kommer vara alternativ frågor. 
 
