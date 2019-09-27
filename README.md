@@ -2,8 +2,8 @@
 Info om kommande Tenta
 
 På torsdag den 3 oktober ska ni ha skriftligt prov på HTML och CSS.
-Webbutveckling frontend börjar kl 09.30  
-Frontend säkerhet börjar kl 13.30
+FRK19s, Webbutveckling frontend börjar kl 09.30  
+FWK19s, Frontend säkerhet börjar kl 13.30
 
 
 
