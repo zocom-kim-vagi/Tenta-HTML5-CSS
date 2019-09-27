@@ -25,6 +25,7 @@ Regler som gäller är:
 - Ni kommer att få ca 25-30 frågor.
 
 - Bedömmning görs enligt: 
+
 80% rätt och mycket bra projektarbete, projekt 2 = VG.
 
 60% rätt och helt okey projektarbete, projekt 2 = G.
