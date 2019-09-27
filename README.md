@@ -26,9 +26,9 @@ Regler som gäller är:
 
 - Bedömmning görs enligt: 
 
-80% rätt och mycket bra projektarbete, projekt 2 = VG.
+Minst 80% rätt och mycket bra projektarbete, projekt 2 = VG.
 
-60% rätt och helt okey projektarbete, projekt 2 = G.
+Minst 60% rätt och helt okey projektarbete, projekt 2 = G.
 
 Under 60% = omtenta.
 
