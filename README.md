@@ -13,7 +13,7 @@ Var på plats 15 min innan.
 ------------------------------------------------------------
 
 
-Regler som gäller är:
+<b>Regler som gäller är:</b>
 
 - Inga datorer är tillåtna, provet kommer att vara i pappersformat. 
   Beklagar att jag hintade om datorer, men fick direktiv från mina kolleger, det blir mer en övning i att Googla om man får använda         datorn.
@@ -24,23 +24,19 @@ Regler som gäller är:
 
 - Personliga tillbehör som t.ex. jackor och väskor, ställs framme vid tavlan innan start, inklusive mobiltelefonerna.
 
-- Ni får inte ha några andra föremål förutom penna själva provet på din skrivplats.
+- Ni får inte ha några andra föremål förutom penna och själva provet på din skrivplats.
 
-- Under provet ska det råda absolut tystnad och studenterna ska sitta enskilt och får inte ta hjälp av varandra.
+- Ni ska sitta enskilt och får inte kommunicera med varandra. Ni ska sitta där jag placerar er eller vid utplacerade namnlappar.
 
-- <b>Det ska vara tyst i skrivsalen</b>. Tentamensvakt äger rätt att avvisa student som stör eller hindrar genomförandet av tentamen.
+- <b>Det ska vara tyst i skrivsalen</b>. Lärare äger rätt att avvisa student som stör eller hindrar genomförandet av tentamen.
 
 - Ni har två timmar på er att slutföra provet. 
 
 
 
- 
+<b>Om provet</b>
 
-
-
-
-
-- Det mesta kommer vara alternativ frågor. 
+- Det kommer vara både alternativ frågor och svarsfrågor. 
 
 - Ni kommer att få ca 25-30 frågor.
 
@@ -52,6 +48,6 @@ Minst 60% rätt och helt okey projektarbete i projekt 2 = G.
 
 Under 60% = omtentamen.
 
-
+Lycka till!
 
 
