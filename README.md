@@ -16,7 +16,7 @@ Var på plats 15 min innan.
 <b>Regler som gäller är:</b>
 
 - Inga datorer är tillåtna, provet kommer att vara i pappersformat. 
-  Beklagar att jag hintade om datorer, men fick direktiv från mina kolleger, det blir mer en övning i att Googla om man får använda         datorn.
+  Beklagar att jag hintade om datorer, men fick utlåtande från en kollega att det blir mer en övning i att Googla om man får använda         datorn.
 
 - När ni kommer till klassrummet ska mobiltelefoner vara på tyst läge eller avstängda.
 
@@ -40,7 +40,7 @@ Var på plats 15 min innan.
 
 - Ni kommer att få ca 25-30 frågor.
 
-- Bedömmning görs enligt: 
+- Bedömning görs enligt: 
 
 Minst 80% rätt och mycket bra projektarbete i projekt 2 = VG.
 
